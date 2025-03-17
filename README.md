@@ -27,10 +27,9 @@ Bookmark Manager App 📑 – A web app for managing and organizing bookmarks ef
   
 - 👨‍💻 All of my projects are available at:
   - [GitHub Repositories](https://github.com/Aanushka001)
-  
-- 📄 Know about my experiences:
-  - [Resume]([file:///C:/Users/aanus/Downloads/Resume_.pdf](https://drive.google.com/file/d/1BgXCaHWF8AekytLVwmUVIrOUcf9JS3md/view?usp=sharing))
-  
+- 📄 Know about my experiences:  
+  - [Resume](https://drive.google.com/file/d/1BgXCaHWF8AekytLVwmUVIrOUcf9JS3md/view?usp=sharing)  
+
 - ⚡ Fun fact:
   - I love solving DSA problems and sometimes spend hours debugging one missing semicolo
 [![](https://visitcount.itsvg.in/api?id=Aanushka001&icon=9&color=11)](https://visitcount.itsvg.in)
