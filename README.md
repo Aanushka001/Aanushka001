@@ -1,24 +1,88 @@
-# 💫 About Me:
- Aanushka Singh<br>🚀 Passionate Full-Stack Developer | Web Enthusiast | Problem Solver<br><br><br>👋 Hi, I'm Aanushka Singh!<br>💡 A full-stack web developer passionate about building scalable web applications and solving real-world problems using technology.<br><br>🔭 I’m currently working on:<br><br>AI Movie Character Chatbot 🎭<br>Bookmark Manager App 📑<br>👯 I’m looking to collaborate on:<br><br>Open-source projects related to Next.js, Flask, and MongoDB<br>Projects involving data scraping and automation<br>🌱 I’m currently learning:<br><br>Advanced Next.js & GraphQL<br>Backend optimizations using Redis & RabbitMQ<br>💬 Ask me about:<br><br>Web development (Next.js, React, Node.js, Flask)<br>Databases (MongoDB, PostgreSQL, Firebase)<br>APIs & Automation<br>📫 How to reach me:<br><br>Email: aanushkasingh.dev@gmail.com<br>LinkedIn: Aanushka Singh<br>👨‍💻 All of my projects are available at:<br>GitHub Repositories<br><br>📄 Know about my experiences:<br>Resume Link (Update this with your actual resume link)<br><br>⚡ Fun fact:<br>I love solving DSA problems and sometimes spend hours debugging one missing semicolon! 😆<br><br>🚀 Skills & Technologies<br>Frontend Development:<br><br><br><br><br>Backend Development:<br><br><br><br>Databases:<br><br><br><br>DevOps & Cloud:<br><br><br>Version Control & CI/CD:<br><br><br><br>📊 GitHub Stats & Contributions<br><br><br><br>💡 Latest Blog Posts<br><!-- BLOG-POST-LIST:START --><br>Building a Full-Stack App with Next.js and Firebase<br>5 Essential Git Commands Every Developer Should Know<br>How to Optimize MongoDB Queries for Performance<br><!-- BLOG-POST-LIST:END --><br>📌 Connect with Me<br><br><br><br><br><br>☕ Support Me<br>If you like my work, consider buying me a coffee ☕ to support my open-source contributions!<br><br>This README automatically updates with GitHub Actions to display your latest blog posts and contributions. 🚀<br><br>Would you like me to help set up GitHub Actions for auto-updating blogs & contributions? 😊<br><br><br><br><br><br><br><br>You said:<br>writ eabout me as per itle<br>A passionate frontend developer from India<br>Work<br>🔭 I’m currently working on<br>project name<br>project link<br>👯 I’m looking to collaborate on<br>project name<br>project link<br>🤝 I’m looking for help with<br>project name<br>project link<br>🌱 I’m currently learning<br>Frameworks, courses etc.<br>💬 Ask me about<br>react, vue and gsap<br>📫 How to reach me<br>example@gmail.com<br>👨‍💻 All of my projects are available at<br>portfolio link<br>📝 I regularly write articles on<br>blog link<br>📄 Know about my experiences<br>resume link<br>⚡ Fun fact<br>I think I am funny<br>Skills<br><br>
+<h2 align="left">Hi 👋! My name is Aanushka Singh and I'm a Full-Stack Developer, from India</h2>
 
+###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aanushka001&theme=one_dark_pro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aanushka001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=one_dark_pro&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Aanushka SIngh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aanushka-singh-5bab49223/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aanushka Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aanushkasingh328@gmail.com) 
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=plastic&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aanushka001&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aanushka001&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aanushka001&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+</div>
+
+###
+<div align="left">
+  <a href="https://instagram.com/Aanushka SIngh">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/aanushka-singh-5bab49223/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:aanushkasingh328@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://mastodon.social/@Aanushka Singh">
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=2B90D9&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
+  </a>
+</div>
+
+###
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Aanushka001/Aanushka001/output/snake.svg" alt="Snake animation" />
+
+###
+
+## 🚀 About Me
+- 🔭 I'm currently working on:
+  - AI Movie Character Chatbot 🎭
+  - Bookmark Manager App 📑
+  
+- 👯 I'm looking to collaborate on:
+  - Open-source projects related to Next.js, Flask, and MongoDB
+  - Projects involving data scraping and automation
+  
+- 🌱 I'm currently learning:
+  - Advanced Next.js & GraphQL
+  - Backend optimizations using Redis & RabbitMQ
+  
+- 💬 Ask me about:
+  - Web development (Next.js, React, Node.js, Flask)
+  - Databases (MongoDB, PostgreSQL, Firebase)
+  - APIs & Automation
+  
+- 📫 How to reach me:
+  - Email: aanushkasingh.dev@gmail.com
+  
+- 👨‍💻 All of my projects are available at:
+  - [GitHub Repositories](https://github.com/Aanushka001)
+  
+- 📄 Know about my experiences:
+  - [Resume](https://yourresumelink.com)
+  
+- ⚡ Fun fact:
+  - I love solving DSA problems and sometimes spend hours debugging one missing semicolon! 😆
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Aanushka001&theme=aura_dark&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aanushka001&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Aanushka001&icon=9&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
