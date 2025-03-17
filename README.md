@@ -29,7 +29,7 @@ Bookmark Manager App 📑 – A web app for managing and organizing bookmarks ef
   - [GitHub Repositories](https://github.com/Aanushka001)
   
 - 📄 Know about my experiences:
-  - [Resume](https://yourresumelink.com)
+  - [Resume](file:///C:/Users/aanus/Downloads/Resume_.pdf)
   
 - ⚡ Fun fact:
   - I love solving DSA problems and sometimes spend hours debugging one missing semicolo
