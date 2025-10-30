@@ -1,41 +1,39 @@
-💡 _“I enjoy building systems that are practical, scalable, and grounded in real user needs.”_
+"I focus on creating practical, scalable systems tailored to real user needs."
+
 
 ## 👋 Hi, I'm Aanushka Singh
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanushka001&langs_count=6&layout=compact&theme=radical&hide_border=false&custom_title=Most+Used+Languages" height="200" />
 </div>
 
-
 ### 👩‍💻 About Me
 
-- 🎓 Final-year B.Tech Computer Science student  
-- 💻 Proficient in **C++**, **Python**, and backend architecture  
-- 🌐 Experienced in developing scalable systems with real datasets on Kaggle
+- Designing and structuring backend APIs  
+- Integrating databases like MongoDB and Firebase.  
+- Implementing authentication and data flow logic. 
+- Working on projects that combine backend, data, and visualization.
 
 ---
 
 ### 🔧 Projects & Experience
 
-#### 🚔 Crime Reporting Platform  
-Built a live crime tracking tool with OpenStreetMap (OSM) and WebSockets. Features include smart filters and heatmaps for real-time navigation towards safer areas.
+#### 🛰️ Crime Watch  
+Developed a live crime monitoring system using OpenStreetMap (OSM) and WebSockets for real-time tracking. Integrated filters and heatmaps to visualize incidents and assist safer navigation.
 
-#### 🛍️ E-commerce Platform (Ongoing)  
-Developing a flexible online store using Medusa (backend), Directus (CMS), and a custom React frontend, enabling team separation for faster development, better design, and SEO.
+#### 🔐 Auth Track  
+Built a secure authentication tracking service with Node.js and MongoDB. Features include role-based access control, user session management, and activity logging for improved reliability.
 
-#### 💼 Internship Project  
-Contributed to backend systems development using PHP Laravel, focusing on dashboard creation and data automation workflows.
-
-#### 📊 Kaggle Competitions  
-Participated in 6+ competitions and authored 25+ Python notebooks with a focus on data cleaning, exploratory data analysis, and ML modeling using Pandas, Scikit-learn, and Seaborn.
+#### 📊 Kaggle Projects  
+Participated in multiple data science challenges and published notebooks focusing on data preprocessing, feature selection, and ML model optimization using Pandas and Scikit-learn.
 
 ---
 
 ### 🗣️ Ask Me About
 
-- Designing clean and maintainable backend architecture  
-- Integrating databases like MongoDB and PostgreSQL  
-- Data-centric workflows leveraging Python  
-- Building cross-functional projects with CMS, APIs, and UI separation
+- Designing and structuring backend APIs.
+- Integrating databases like MongoDB and Firebase.  
+- Implementing authentication and data flow logic. 
+- Working on projects that combine backend, data, and visualization. 
 
 ---
 
@@ -60,7 +58,3 @@ Participated in 6+ competitions and authored 25+ Python notebooks with a focus o
 - LinkedIn – [Aanushka Singh](https://www.linkedin.com/in/aanushka-singh-5bab49223/)  
 - Kaggle – [Aanushka On Kaggle](https://www.kaggle.com/aanushkasingh)  
 - Resume – [View here](https://drive.google.com/file/d/1gxU7x_ddMetBxxEctzsp-qTjExu0GudJ/view?usp=sharing)
-
----
-
-[![](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
