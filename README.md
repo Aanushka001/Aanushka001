@@ -1,42 +1,41 @@
 💡 _“I enjoy building systems that are practical, scalable, and grounded in real user needs.”_
 
 ## 👋 Hi, I'm Aanushka Singh
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanushka001&langs_count=6&layout=compact&theme=tokyonight&hide_border=false&custom_title=Most+Used+Languages" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aanushka001&langs_count=6&layout=compact&theme=radical&hide_border=false&custom_title=Most+Used+Languages" height="200" />
 </div>
 
----
 
 ### 👩‍💻 About Me
 
 - 🎓 Final-year B.Tech Computer Science student  
-- 💻 Strong in **C++**, **Python**, and backend architecture  
-- 🌐 Experienced in building scalable systems and working with real datasets on Kaggle
+- 💻 Proficient in **C++**, **Python**, and backend architecture  
+- 🌐 Experienced in developing scalable systems with real datasets on Kaggle
 
 ---
 
-### 🔧 Practical Work & Projects
-🚔 Crime Reporting Platform
-Created a live crime tracking tool using OpenStreetMap (OSM) and WebSockets. Added smart filters and heatmaps to show safer areas in real-time and help users navigate better.
+### 🔧 Projects & Experience
 
-🛍️ E-commerce Platform (Ongoing)
-Building a flexible online store using Medusa (backend engine), Directus (CMS), and a custom React frontend. The setup allows developers and content teams to work separately, improving speed, design, and SEO.
+#### 🚔 Crime Reporting Platform  
+Built a live crime tracking tool with OpenStreetMap (OSM) and WebSockets. Features include smart filters and heatmaps for real-time navigation towards safer areas.
 
-💼 Internship Project
-Worked on backend systems using PHP Laravel. Focused on dashboard development and automating how data moves and updates in the system.
+#### 🛍️ E-commerce Platform (Ongoing)  
+Developing a flexible online store using Medusa (backend), Directus (CMS), and a custom React frontend, enabling team separation for faster development, better design, and SEO.
 
-📊 Kaggle Projects
-Joined 6+ competitions and published 25+ Python notebooks. Focused on data cleaning, EDA, and training models using libraries like Pandas, Scikit-learn, and Seaborn.
+#### 💼 Internship Project  
+Contributed to backend systems development using PHP Laravel, focusing on dashboard creation and data automation workflows.
+
+#### 📊 Kaggle Competitions  
+Participated in 6+ competitions and authored 25+ Python notebooks with a focus on data cleaning, exploratory data analysis, and ML modeling using Pandas, Scikit-learn, and Seaborn.
 
 ---
 
 ### 🗣️ Ask Me About
 
-- Clean backend architecture  
-- Database integrations (MongoDB, PostgreSQL)  
-- Data-centric workflows using Python  
-- Cross-functional project building with CMS, APIs, and UI separation
+- Designing clean and maintainable backend architecture  
+- Integrating databases like MongoDB and PostgreSQL  
+- Data-centric workflows leveraging Python  
+- Building cross-functional projects with CMS, APIs, and UI separation
 
 ---
 
@@ -55,12 +54,13 @@ Joined 6+ competitions and published 25+ Python notebooks. Focused on data clean
 </div>
 
 ---
+
 ### 🔗 Connect with Me
 
-- LinkedIn – [Aanushka Singh](https://www.linkedin.com/in/aanushka-singh-5bab49223/)
-- Kaggle – [Aanushka On Kaggle ](https://www.kaggle.com/aanushkasingh)
-- Resume – [View](https://drive.google.com/file/d/1zWr19Ih90P-yPWMZ0bNrKVdm4EWFptP_/view?usp=sharing)
+- LinkedIn – [Aanushka Singh](https://www.linkedin.com/in/aanushka-singh-5bab49223/)  
+- Kaggle – [Aanushka On Kaggle](https://www.kaggle.com/aanushkasingh)  
+- Resume – [View here](https://drive.google.com/file/d/1gxU7x_ddMetBxxEctzsp-qTjExu0GudJ/view?usp=sharing)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Aanushka001&icon=9&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
